@@ -1,4 +1,5 @@
 {
+  "id": "/minha-lista/",
   "name": "Minha Lista",
   "short_name": "Minha Lista",
   "description": "Lista simples de itens com armazenamento local",
